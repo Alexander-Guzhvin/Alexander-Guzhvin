@@ -2,12 +2,12 @@
 
 
 ### Tools
-![Flitter](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=Html5)
-![Flitter](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=CSS3)
-![Flitter](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=SASS)
-![Flitter](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=BOOTSTRAP)
-![Flitter](https://img.shields.io/badge/-js-090909?style=for-the-badge&logo=JAVASCRIPT)
-![Flitter](https://img.shields.io/badge/-jquery-090909?style=for-the-badge&logo=Jquery)
+![Flitter](https://img.shields.io/badge/-html-090909?style=for-the-badge?&logo=Html5)
+![Flitter](https://img.shields.io/badge/-css-090909?style=for-the-badge?&logo=CSS3)
+![Flitter](https://img.shields.io/badge/-sass-090909?style=for-the-badge?&logo=SASS)
+![Flitter](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge?&logo=BOOTSTRAP)
+![Flitter](https://img.shields.io/badge/-js-090909?style=for-the-badge?&logo=JAVASCRIPT)
+![Flitter](https://img.shields.io/badge/-jquery-090909?style=for-the-badge?&logo=Jquery)
 
 ### Contact me
 [![Flitter](https://img.shields.io/badge/-my_syte-090909?style=for-the-badge&logo=git)](https://alex-web-developer.com)
